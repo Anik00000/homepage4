@@ -1,0 +1,47 @@
+.borde_color{
+   border: 0px;
+   background-color: aqua;
+}
+.search_bur{
+    padding: 11px;
+}
+.logo_text{
+    text-align: center;
+}
+.about_section ul{
+   margin-top: 20px;
+}
+.about_section ul li{
+    text-decoration: none;
+    display: inline;
+   
+}
+.about_section ul li a{
+    color: rgb(45, 153, 153);
+    padding-right: 17px;
+    text-decoration: none;
+}
+.MANU_SECTION ul{
+    margin-top: 20px;
+    border-top: 2px solid #837b7b;
+    padding-top: 20px;
+}
+.MANU_SECTION ul li{
+    
+    display: inline;
+}
+.MANU_SECTION ul li a{
+    color: rgb(45, 153, 153);
+    padding-right: 57px;
+    text-decoration: none;
+}
+.body_manu{
+    border-radius: 3px;
+    box-shadow: 0px 3px 3px 3px;
+
+}
+
+.boddy_tex{
+    text-align: center;
+    margin-top: 20px;
+}
